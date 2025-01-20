@@ -1,0 +1,2 @@
+# MiniCPM-o-2.6-Windows_amd64_Nvidia-
+一键使用面壁智能最新的MiniCPM-o 2.6多模态模型，用于视频对话、语音对话和文字对话。|Use Wallface Intelligence's latest MiniCPM-o 2.6 multi-modal model with one click for video conversations, voice conversations and text conversations.
